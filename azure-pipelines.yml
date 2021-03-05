@@ -11,7 +11,7 @@ resources:
       name: jeremiasbila/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com_azure-pepilines
+      endpoint: github.com/jeremias_bila
 
 parameters:
  - name: image
